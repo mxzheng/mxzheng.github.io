@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://mxzheng.github.io/mx.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-teaser                   :https://github.com/mxzheng/mx.github.io/blob/master/images/mx.jpeg  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mengxin Zheng"
   avatar           : "https://github.com/mxzheng/mx.github.io/blob/master/images/mx.jpeg "
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D Candidate"
   location         : 
   employer         : Indiana University Bloomington
   pubmed           : 
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"https://github.com/mxzheng"
+  github           : # "https://github.com/mxzheng"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
