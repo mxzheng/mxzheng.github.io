@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
- * Research Intern: May 2023 - August 2023
+* Research Intern: May 2023 - August 2023
   * Knox Team, Samsung Research America
 
 Teaching experience
@@ -27,13 +27,16 @@ Teaching experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul> https://arxiv.org/abs/2306.06815 {% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 
 Service
 ======
-* 2023 Fastpath workshop public chair
+* FastPath Workshop 2023 (Web and Publicity Chair) (https://github.com/mxzheng/mx.github.io/assets/34554127/b1843df5-72f4-4337-a25b-7a9b5359a937)
 * Reviewer
-  * CVPR, ICCV
+  * Conference on Computer Vision and Pattern Recognition Reviewer (CVPR)
+  * Conference on Neural Information Processing Systems Reviewer (NeurIPS)
+
+
