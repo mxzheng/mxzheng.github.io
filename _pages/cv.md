@@ -27,14 +27,14 @@ Teaching experience
 
 Publications
 ======
-  <ul> https://arxiv.org/abs/2306.06815 {% for post in site.publications %}
+  <ul> {% https://arxiv.org/abs/2306.06815 %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 
 Service
 ======
-* FastPath Workshop 2023 (Web and Publicity Chair) (https://github.com/mxzheng/mx.github.io/assets/34554127/b1843df5-72f4-4337-a25b-7a9b5359a937)
+* FastPath Workshop 2023 (Web and Publicity Chair) {% https://github.com/mxzheng/mx.github.io/assets/34554127/b1843df5-72f4-4337-a25b-7a9b5359a937 % }
 * Reviewer
   * Conference on Computer Vision and Pattern Recognition Reviewer (CVPR)
   * Conference on Neural Information Processing Systems Reviewer (NeurIPS)
