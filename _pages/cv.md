@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,19 +16,14 @@ Education
 
 Work experience
 ======
-* May 2023 - August 2023: Research Intern
+ * Research Intern: May 2023 - August 2023
   * Knox Team, Samsung Research America
-  *
-  * Supervisor: 
 
 Teaching experience
 ======  
-
-Skills
-======
-* Skill 1
-* Skill 2
-* Skill 3
+ * E340/542 Introduction to Computational BioEngineering: August 2022 - December 2022 
+ 
+ * E501 Introduction to Computer Engineering: August 2023 - December 2023 
 
 Publications
 ======
@@ -36,13 +31,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-  
+
 Service
 ======
-* Currently signed in to 43 different slack teams
+* 2023 Fastpath workshop public chair
+* Reviewer
+  * CVPR, ICCV
