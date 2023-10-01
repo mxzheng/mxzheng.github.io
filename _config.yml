@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mengxin Zheng"
-  avatar           : "mx.jpeg" # "https://github.com/mxzheng/mx.github.io/blob/master/images/mx.jpeg "
+  avatar           : "mx.jpeg= 250x" # profile photo
   bio              : "Ph.D Candidate"
   location         : 
   employer         : Indiana University Bloomington
