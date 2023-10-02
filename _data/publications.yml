@@ -1,0 +1,9 @@
+- title: "Paper Title 1"
+  authors: "Author 1, Author 2"
+  journal: "Journal Name 1"
+  link: "https://example.com/paper1.pdf"
+
+- title: "Paper Title 2"
+  authors: "Author 3, Author 4"
+  journal: "Journal Name 2"
+  link: "https://example.com/paper2.pdf"
