@@ -3,8 +3,6 @@ layout: archive
 # title: "Teaching"
 permalink: /teaching/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 *E501 Introduction to Computer Engineering
   *Graduate course, Indiana University Bloomington, August 2023 - December 2023 
