@@ -25,13 +25,13 @@ News
 
 Selected Publications
 ======
-* [TrojPrompt: A Black-box Trojan Attack on Pre-trained Language Models]("") , NeurIPS 2023
+* [TrojPrompt: A Black-box Trojan Attack on Pre-trained Language Models](https://arxiv.org/pdf/2306.06815.pdf), NeurIPS 2023
   * Jiaqi Xue, **Mengxin Zheng**, Ting Hua, Yepeng Liu, Yilin Shen, Ladislau Bölöni, Qian Lou.
-* [TrojViT: Trojan Insertion in Vision Transformers](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_TrojViT_Trojan_Insertion_in_Vision_Transformers_CVPR_2023_paper.html) , CVPR 2023
+* [TrojViT: Trojan Insertion in Vision Transformers](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_TrojViT_Trojan_Insertion_in_Vision_Transformers_CVPR_2023_paper.pdf), CVPR 2023
   * **Mengxin Zheng**, Qian Lou, Lei Jiang
-* [Primer: Fast Private Transformer Inference on Encrypted Data]("https://arxiv.org/abs/2303.13679") , DAC 2023
+* [Primer: Fast Private Transformer Inference on Encrypted Data](https://arxiv.org/pdf/2303.13679.pdf), DAC 2023
   * **Mengxin Zheng**, Qian Lou, Lei Jiang
-* [Cofhe: Software and hardware co-design for fhe-based machine learning as a service](https://www.frontiersin.org/articles/10.3389/felec.2022.1091369/full) , Frontiers in Electronics 2023
+* [Cofhe: Software and hardware co-design for fhe-based machine learning as a service](https://www.frontiersin.org/articles/10.3389/felec.2022.1091369/full), Frontiers in Electronics 2023
   * **Mengxin Zheng**, Lei Ju, Lei Jiang   
   
 Work experience
