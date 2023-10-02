@@ -5,3 +5,4 @@ type: "Undergraduate and graduate course"
 permalink: /teaching/2022-fall-teaching-1
 venue: "Indiana University Bloomington"
 date: August 2022 - December 2022 
+---
