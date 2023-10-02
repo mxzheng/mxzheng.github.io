@@ -25,7 +25,7 @@ Selected Publications
 Work experience
 ======
 * Research Intern: May 2023 - August 2023
-  * Knox Team, Samsung Research America
+  * Knox Security Team, Samsung Research America
 
 Teaching experience
 ======  
