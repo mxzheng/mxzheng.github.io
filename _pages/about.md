@@ -7,7 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Mengxin Zheng, 
+I am Mengxin Zheng, a 5th year PhD student at at the Department of Intelligent Systems Engineering at Indiana University Bloomington, working with Dr Lei Jiang.  Before that, I obtained my Bachelor's degree at ShanDong University in 2018. My research interests mainly lie in machine learning security, especially backdoor attacks/defense for AI models and AI Data Privacy Protection. 
+
+Research Interest
+======
+* AI Data Privacy Protection
+  * Homomorphic Encryption
+* Secure Machine Learning
+  * Backdoor Attacks, Detection and Mitigation
 
 Selected Publications
 ======
@@ -15,12 +22,6 @@ Selected Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-
-Education
-======
-* B.S. in ShanDong University, 2014-2018
-* Ph.D in Indiana University Bloomington, 2018-Present
-
 Work experience
 ======
 * Research Intern: May 2023 - August 2023
