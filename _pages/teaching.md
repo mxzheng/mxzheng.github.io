@@ -1,9 +1,9 @@
 ---
 layout: archive
 # title: "Teaching"
-permalink: /teaching/
 author_profile: true
 ---
+
 # Teaching experience
 
 ## E501 Introduction to Computer Engineering
