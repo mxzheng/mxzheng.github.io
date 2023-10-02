@@ -18,10 +18,14 @@ Research Interest
 
 News
 ======
-09/23 
+09 / 2023	TrojPrompt: A Black-box Trojan Attack on Pre-trained Language Models is accepted by NeurIPS 2023. \\
+02 / 2023	TrojViT: Trojan Insertion in Vision Transformers is accepted by CVPR 2023. \\
+02 / 2023	Primer: Privacy-preserving Transformer on Encrypted Data is accepted by DAC 2023.
 
 Selected Publications
 ======
+* [TrojPrompt: A Black-box Trojan Attack on Pre-trained Language Models](""), NeurIPS 2023
+  * Jiaqi Xue, Mengxin Zheng, Ting Hua, Yepeng Liu, Yilin Shen, Ladislau Bölöni, Qian Lou.
 * [TrojViT: Trojan Insertion in Vision Transformers]("https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_TrojViT_Trojan_Insertion_in_Vision_Transformers_CVPR_2023_paper.html"), CVPR 2023
   * Mengxin Zheng, Qian Lou, Lei Jiang
 * [Primer: Fast Private Transformer Inference on Encrypted Data]("https://arxiv.org/abs/2303.13679"), DAC 2023
