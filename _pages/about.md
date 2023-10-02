@@ -18,13 +18,15 @@ Research Interest
 
 News
 ======
-
+09/23 
 
 Selected Publications
 ======
-   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* [TrojViT: Trojan Insertion in Vision Transformers]("https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_TrojViT_Trojan_Insertion_in_Vision_Transformers_CVPR_2023_paper.html"), CVPR 2023
+  * Mengxin Zheng, Qian Lou, Lei Jiang
+* [Primer: Fast Private Transformer Inference on Encrypted Data]("https://arxiv.org/abs/2303.13679"), DAC 2023
+  * Mengxin Zheng, Qian Lou, Lei Jiang
+  
   
 Work experience
 ======
