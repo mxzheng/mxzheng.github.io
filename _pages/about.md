@@ -12,7 +12,6 @@ I am Mengxin Zheng, a 5th-year PhD student at the Department of Intelligent Syst
 
 ## Research Interest
 - AI Data Privacy Protection
-  - Homomorphic Encryption
 - Secure Machine Learning
   - Backdoor Attacks, Detection and Mitigation
 
