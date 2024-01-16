@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Mengxin Zheng, a 5th-year PhD student at the Department of Intelligent Systems Engineering at Indiana University Bloomington. Before that, I obtained my Bachelor's degree at Shandong University in 2018. My research interests mainly lie in machine learning security, especially backdoor attacks/defense for AI models and AI Data Privacy Protection.
+I obtained Ph.D. at the Department of Intelligent Systems Engineering at Indiana University Bloomington in 2023. Before that, I obtained my Bachelor's degree at Shandong University in 2018. My research interests mainly lie in machine learning security, especially backdoor attacks/defense for AI models and AI Data Privacy Protection.
 
 ## Research Interest
 - AI Data Privacy Protection
@@ -16,6 +16,7 @@ I am Mengxin Zheng, a 5th-year PhD student at the Department of Intelligent Syst
   - Backdoor Attacks, Detection and Mitigation
 
 ## News
+- 12 / 2023: Passed Thesis Defense!
 - 09 / 2023: TrojPrompt: A Black-box Trojan Attack on Pre-trained Language Models is accepted by NeurIPS 2023.
 - 04 / 2023: I am selected as DAC Young Fellow 2023.
 - 02 / 2023: TrojViT: Trojan Insertion in Vision Transformers is accepted by CVPR 2023.
