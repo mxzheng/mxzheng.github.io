@@ -13,7 +13,6 @@ I am an Assistant Professor at the Department of Computer Science at University 
 ## Research Interest
 - AI Data Privacy Protection
 - Secure Machine Learning
-- Backdoor Attacks, Detection and Mitigation
 
 ## News
 - 02 / 2024: Happy to join UCF as an assistent professor in CS department!
