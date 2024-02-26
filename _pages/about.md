@@ -8,23 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I obtained Ph.D. at the Department of Intelligent Systems Engineering at Indiana University Bloomington in 2023. Before that, I obtained my Bachelor's degree at Shandong University in 2018. My research interests mainly lie in machine learning security, especially backdoor attacks/defense for AI models and AI Data Privacy Protection.
+I am an Assistant Professor at the Department of Computer Science at University of Central Florida. Prior that, I obtained Ph.D. at the Department of Intelligent Systems Engineering at Indiana University Bloomington in 2023. Before that, I obtained my Bachelor's degree at Shandong University in 2018. My research interests mainly lie in machine learning security, especially backdoor attacks/defense for AI models and AI Data Privacy Protection.
 
 ## Research Interest
 - AI Data Privacy Protection
 - Secure Machine Learning
-  - Backdoor Attacks, Detection and Mitigation
+- Backdoor Attacks, Detection and Mitigation
 
 ## News
+- 02 / 2024: Happy to join UCF as an assistent professor in CS department!
 - 12 / 2023: Passed Thesis Defense!
-- 09 / 2023: TrojPrompt: A Black-box Trojan Attack on Pre-trained Language Models is accepted by NeurIPS 2023.
+- 09 / 2023: TrojLLM is accepted by NeurIPS 2023.
 - 04 / 2023: I am selected as DAC Young Fellow 2023.
-- 02 / 2023: TrojViT: Trojan Insertion in Vision Transformers is accepted by CVPR 2023.
-- 02 / 2023: Primer: Privacy-preserving Transformer on Encrypted Data is accepted by DAC 2023.
+- 02 / 2023: TrojViT is accepted by CVPR 2023.
+- 02 / 2023: Primer is accepted by DAC 2023.
 
 ## Selected Publications
-- [TrojPrompt: A Black-box Trojan Attack on Pre-trained Language Models](https://arxiv.org/pdf/2306.06815.pdf), NeurIPS 2023
-  - Jiaqi Xue, **Mengxin Zheng**, Ting Hua, Yepeng Liu, Yilin Shen, Ladislau Bölöni, Qian Lou.
+- [TrojLLM: A Black-box Trojan Prompt Attack on Large Language Models](https://arxiv.org/pdf/2306.06815.pdf), NeurIPS 2023
+  - Jiaqi Xue, **Mengxin Zheng**, Ting Hua, Yilin Shen, Yepeng Liu, Ladislau Bölöni, Qian Lou.
 - [TrojViT: Trojan Insertion in Vision Transformers](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_TrojViT_Trojan_Insertion_in_Vision_Transformers_CVPR_2023_paper.pdf), CVPR 2023
   - **Mengxin Zheng**, Qian Lou, Lei Jiang
 - [Primer: Fast Private Transformer Inference on Encrypted Data](https://arxiv.org/pdf/2303.13679.pdf), DAC 2023
@@ -45,3 +46,4 @@ I obtained Ph.D. at the Department of Intelligent Systems Engineering at Indiana
 - Reviewer
   - Conference on Computer Vision and Pattern Recognition Reviewer (CVPR)
   - Conference on Neural Information Processing Systems Reviewer (NeurIPS)
+  - IEEE Transactions on Dependable and Secure Computing (TDSC)
