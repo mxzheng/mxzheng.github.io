@@ -15,6 +15,7 @@ I am an Assistant Professor at the Department of Computer Science at University 
 - Secure Machine Learning
 
 ## News
+- 03 / 2024: TrojFSP is accepted by NAACL 2024.
 - 02 / 2024: Happy to join UCF as an assistent professor in CS department!
 - 12 / 2023: Passed Thesis Defense!
 - 09 / 2023: TrojLLM is accepted by NeurIPS 2023.
@@ -23,6 +24,8 @@ I am an Assistant Professor at the Department of Computer Science at University 
 - 02 / 2023: Primer is accepted by DAC 2023.
 
 ## Selected Publications
+- [TrojFSP: Trojan Insertion in Few-shot Prompt Tuning], NAACL 2024
+  - **Mengxin Zheng**, Jiaqi Xue, Xun Chen, Yanshan Wang, Qian Lou, Lei Jiang.
 - [TrojLLM: A Black-box Trojan Prompt Attack on Large Language Models](https://arxiv.org/pdf/2306.06815.pdf), NeurIPS 2023
   - Jiaqi Xue, **Mengxin Zheng**, Ting Hua, Yilin Shen, Yepeng Liu, Ladislau Bölöni, Qian Lou.
 - [TrojViT: Trojan Insertion in Vision Transformers](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_TrojViT_Trojan_Insertion_in_Vision_Transformers_CVPR_2023_paper.pdf), CVPR 2023
