@@ -11,8 +11,8 @@ redirect_from:
 I am an Assistant Professor at the Department of Computer Science at University of Central Florida. Prior that, I obtained Ph.D. at the Department of Intelligent Systems Engineering at Indiana University Bloomington in 2023. Before that, I obtained my Bachelor's degree at Shandong University in 2018. My research interests mainly lie in machine learning security, especially backdoor attacks/defense for AI models and AI Data Privacy Protection.
 
 ## Research Interest
-- AI Data Privacy Protection
-- Secure Machine Learning
+- Robust and Efficient Data Science
+- Trustworthy Learning
 
 ## News
 - 03 / 2024: TrojFSP is accepted by NAACL 2024.
