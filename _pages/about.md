@@ -24,7 +24,7 @@ I am an Assistant Professor at the Department of Computer Science at University 
 - 02 / 2023: Primer is accepted by DAC 2023.
 
 ## Selected Publications
-- TrojFSP: Trojan Insertion in Few-shot Prompt Tuning, NAACL 2024
+- TrojFSP: Trojan Insertion in Few-shot Prompt Tuning, NAACL 2024 (**Oral**)
   - **Mengxin Zheng**, Jiaqi Xue, Xun Chen, Yanshan Wang, Qian Lou, Lei Jiang.
 - [TrojLLM: A Black-box Trojan Prompt Attack on Large Language Models](https://arxiv.org/pdf/2306.06815.pdf), NeurIPS 2023
   - Jiaqi Xue, **Mengxin Zheng**, Ting Hua, Yilin Shen, Yepeng Liu, Ladislau Bölöni, Qian Lou.
