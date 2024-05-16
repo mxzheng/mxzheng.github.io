@@ -15,6 +15,7 @@ I am an Assistant Professor at the Department of Computer Science at University 
 - Trustworthy Learning
 
 ## News
+- 05 / 2024: CR-UTP is accepted by ACL Findings 2024.
 - 03 / 2024: TrojFSP is accepted by NAACL 2024.
 - 02 / 2024: Happy to join UCF as an assistent professor in CS department!
 - 12 / 2023: Passed Thesis Defense!
@@ -24,6 +25,8 @@ I am an Assistant Professor at the Department of Computer Science at University 
 - 02 / 2023: Primer is accepted by DAC 2023.
 
 ## Selected Publications
+- CR-UTP: Certified Robustness against Universal Text Perturbations, ACL Findings 2024.
+- Qian Lou, Xin Liang, Jiaqi Xue, Yancheng Zhang, Rui Xie, **Mengxin Zheng**.
 - TrojFSP: Trojan Insertion in Few-shot Prompt Tuning, NAACL 2024 (**Oral**)
   - **Mengxin Zheng**, Jiaqi Xue, Xun Chen, Yanshan Wang, Qian Lou, Lei Jiang.
 - [TrojLLM: A Black-box Trojan Prompt Attack on Large Language Models](https://arxiv.org/pdf/2306.06815.pdf), NeurIPS 2023
@@ -45,6 +48,7 @@ I am an Assistant Professor at the Department of Computer Science at University 
 
 ## Service
 - FastPath Workshop 2023 [Web and Publicity Chair](https://fastpath2023.github.io/FastPath2023/)
+- NSF WSCS Workshop 2024 Moderator
 - Reviewer
   - Conference on Computer Vision and Pattern Recognition Reviewer (CVPR)
   - Conference on Neural Information Processing Systems Reviewer (NeurIPS)
