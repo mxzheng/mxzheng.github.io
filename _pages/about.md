@@ -10,12 +10,15 @@ redirect_from:
 
 I am an Assistant Professor at the Department of Computer Science at University of Central Florida. Prior that, I obtained Ph.D. at the Department of Intelligent Systems Engineering at Indiana University Bloomington in 2023. Before that, I obtained my Bachelor's degree at Shandong University in 2018. My research interests mainly lie in machine learning security, especially backdoor attacks/defense for AI models and AI Data Privacy Protection.
 
+<span style="color: red"> If you are interested in applying to the Ph.D. program (open for graduates/senior undergrads) in my group, please send your CV and transcript to me. </span>
+
 ## Research Interest
 - Robust and Efficient Data Science
 - Trustworthy Learning
 
 ## News
 - 05 / 2024: CR-UTP is accepted by ACL Findings 2024.
+- 05/2024,  I am honored to receive travel support to participate in the 2024 NSF SaTC Workshop in Chicago, IL. Thanks to the NSF and the organizing team!
 - 03 / 2024: TrojFSP is accepted by NAACL 2024.
 - 02 / 2024: Happy to join UCF as an assistent professor in CS department!
 - 12 / 2023: Passed Thesis Defense!
@@ -26,7 +29,7 @@ I am an Assistant Professor at the Department of Computer Science at University 
 
 ## Selected Publications
 - CR-UTP: Certified Robustness against Universal Text Perturbations, ACL Findings 2024.
-- Qian Lou, Xin Liang, Jiaqi Xue, Yancheng Zhang, Rui Xie, **Mengxin Zheng**.
+  - Qian Lou, Xin Liang, Jiaqi Xue, Yancheng Zhang, Rui Xie, **Mengxin Zheng**.
 - TrojFSP: Trojan Insertion in Few-shot Prompt Tuning, NAACL 2024 (**Oral**)
   - **Mengxin Zheng**, Jiaqi Xue, Xun Chen, Yanshan Wang, Qian Lou, Lei Jiang.
 - [TrojLLM: A Black-box Trojan Prompt Attack on Large Language Models](https://arxiv.org/pdf/2306.06815.pdf), NeurIPS 2023
