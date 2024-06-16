@@ -30,7 +30,7 @@ I am an Assistant Professor at the Department of Computer Science at University 
 ## Selected Publications
 - CR-UTP: Certified Robustness against Universal Text Perturbations, ACL Findings 2024.
   - Qian Lou, Xin Liang, Jiaqi Xue, Yancheng Zhang, Rui Xie, **Mengxin Zheng**.
-- TrojFSP: Trojan Insertion in Few-shot Prompt Tuning, NAACL 2024 (**Oral**)
+- TrojFSP: Trojan Insertion in Few-shot Prompt Tuning, NAACL 2024 (Oral)
   - **Mengxin Zheng**, Jiaqi Xue, Xun Chen, Yanshan Wang, Qian Lou, Lei Jiang.
 - [TrojLLM: A Black-box Trojan Prompt Attack on Large Language Models](https://arxiv.org/pdf/2306.06815.pdf), NeurIPS 2023
   - Jiaqi Xue, **Mengxin Zheng**, Ting Hua, Yilin Shen, Yepeng Liu, Ladislau Bölöni, Qian Lou.
