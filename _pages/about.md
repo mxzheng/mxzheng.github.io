@@ -13,14 +13,18 @@ I am an Assistant Professor at the Department of Computer Science at University 
 <span style="color: red"> If you are interested in applying to the Ph.D. program (open for graduates/senior undergrads) in my group, please send your CV and transcript to me. </span>
 
 ## Research Interest
-- Robust and Efficient Data Science
 - Trustworthy Learning
+- Robust and Efficient Data Science
+- AI Data Privacy Protection
 
 ## News
+- 07/ 2024: SSL-Cleanse is accepted by ECCV 2024.
+- 06/ 2024, I am happy to co-organize DAC Early Career Workshop.
+- 05/2024: OFHE is accepted by ISLPED 2024.
 - 05 / 2024: CR-UTP is accepted by ACL Findings 2024.
 - 05/2024,  I am honored to receive travel support to participate in the 2024 NSF SaTC Workshop in Chicago, IL. Thanks to the NSF and the organizing team!
 - 03 / 2024: TrojFSP is accepted by NAACL 2024.
-- 02 / 2024: Happy to join UCF as an assistent professor in CS department!
+- 02 / 2024: Happy to join UCF as an assistant professor in CS department!
 - 12 / 2023: Passed Thesis Defense!
 - 09 / 2023: TrojLLM is accepted by NeurIPS 2023.
 - 04 / 2023: I am selected as DAC Young Fellow 2023.
@@ -28,6 +32,8 @@ I am an Assistant Professor at the Department of Computer Science at University 
 - 02 / 2023: Primer is accepted by DAC 2023.
 
 ## Selected Publications
+- SSL-Cleanse: Trojan Detection and Mitigation in Self-Supervised Learning, ECCV 2024.
+  - **Mengxin Zheng**, Jiaqi Xue, Zihao Wang, Xun Chen, Qian Lou, Lei Jiang, Xiaofeng Wang. 
 - CR-UTP: Certified Robustness against Universal Text Perturbations, ACL Findings 2024.
   - Qian Lou, Xin Liang, Jiaqi Xue, Yancheng Zhang, Rui Xie, **Mengxin Zheng**.
 - TrojFSP: Trojan Insertion in Few-shot Prompt Tuning, NAACL 2024 (Oral)
@@ -46,12 +52,16 @@ I am an Assistant Professor at the Department of Computer Science at University 
   - Knox Security Team, Samsung Research America
 
 ## Teaching experience
-- E340/542 Introduction to Computational BioEngineering: August 2022 - December 2022
+- CAP 6938 ST: Trustworthy Machine Learning: August 2024 - December 2024  
 - E501 Introduction to Computer Engineering: August 2023 - December 2023
-
+- E340/542 Introduction to Computational BioEngineering: August 2022 - December 2022
+  
 ## Service
-- FastPath Workshop 2023 [Web and Publicity Chair](https://fastpath2023.github.io/FastPath2023/)
+- IGSC 2024 (The 15th International Green and Sustainable Computing Conference) [Publicity Chair](https://www.igscc.org/igsc24-people)
+- DAC Early Career Workshop 2024 [Co-organizer](https://sites.google.com/nd.edu/dac-early-career2024/home)
 - NSF WSCS Workshop 2024 Moderator
+- FastPath Workshop 2023 [Web and Publicity Chair](https://fastpath2023.github.io/FastPath2023/)
+
 - Reviewer
   - Conference on Computer Vision and Pattern Recognition Reviewer (CVPR)
   - Conference on Neural Information Processing Systems Reviewer (NeurIPS)
