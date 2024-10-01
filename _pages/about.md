@@ -18,6 +18,8 @@ I am an Assistant Professor at the Department of Computer Science at University 
 - AI Data Privacy Protection
 
 ## News
+- 09/2024: One paper is accepted by NeurIPS 2024.
+- 09/2024: Two papers are accepted by EMNLP 2024.
 - 07/ 2024: SSL-Cleanse is accepted by ECCV 2024.
 - 06/ 2024, I am happy to co-organize DAC Early Career Workshop.
 - 05/2024: OFHE is accepted by ISLPED 2024.
@@ -63,6 +65,8 @@ I am an Assistant Professor at the Department of Computer Science at University 
 - FastPath Workshop 2023 [Web and Publicity Chair](https://fastpath2023.github.io/FastPath2023/)
 
 - Reviewer
-  - Conference on Computer Vision and Pattern Recognition Reviewer (CVPR)
+  - International Conference on Learning Representations(ICLR)
   - Conference on Neural Information Processing Systems Reviewer (NeurIPS)
+  - International Conference on Artificial Intelligence and Statistics (AISTATS)
+  - Conference on Computer Vision and Pattern Recognition Reviewer (CVPR)
   - IEEE Transactions on Dependable and Secure Computing (TDSC)
