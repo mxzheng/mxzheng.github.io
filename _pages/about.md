@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor at the Department of Computer Science at University of Central Florida. Prior that, I obtained Ph.D. at the Department of Intelligent Systems Engineering at Indiana University Bloomington in 2023. Before that, I obtained my Bachelor's degree at Shandong University in 2018. My research interests mainly lie in machine learning security, especially backdoor attacks/defense for AI models and AI Data Privacy Protection.
 
-<span style="color: red"> I have two fully funded Ph.D. positions available for Fall 2025. The international applicants deadline is December 1st, the domestic applicants deadline is July,1st. If you're interested, please visit the [UCF CS Program](https://www.ucf.edu/degree/computer-science-phd/) and [Application Requirements](https://graduate.ucf.edu/application-deadlines-and-requirements/doctoral/2025/#computer-science-phd) for more details, and send your CV and transcript to me. </span>
+<span style="color: red"> I have two fully funded Ph.D. positions available for Fall 2025. The international applicants deadline is January 15th, 2025, the domestic applicants deadline is July,1st. If you're interested, please visit the [UCF CS Program](https://www.ucf.edu/degree/computer-science-phd/) and [Application Requirements](https://graduate.ucf.edu/application-deadlines-and-requirements/doctoral/2025/#computer-science-phd) for more details, and send your CV and transcript to me. </span>
 
 ## Research Interest
 - Trustworthy Learning
