@@ -13,11 +13,12 @@ I am an Assistant Professor at the Department of Computer Science at University 
 <span style="color: red"> I have two fully funded Ph.D. positions available for Fall 2025. The international applicants deadline is January 15th, 2025, the domestic applicants deadline is July,1st. If you're interested, please visit the [UCF CS Program](https://www.ucf.edu/degree/computer-science-phd/) and [Application Requirements](https://graduate.ucf.edu/application-deadlines-and-requirements/doctoral/2025/#computer-science-phd) for more details, and send your CV and transcript to me. </span>
 
 ## Research Interest
-- Trustworthy Learning
-- Robust and Efficient Data Science
+- Machine Learning Security
 - AI Data Privacy Protection
+- Robust and Efficient Data Science
 
 ## News
+- 01/2025: One paper is accepted by ICLR 2025.
 - 09/2024: One paper is accepted by NeurIPS 2024.
 - 09/2024: Two papers are accepted by EMNLP 2024.
 - 07/ 2024: SSL-Cleanse is accepted by ECCV 2024.
@@ -54,19 +55,24 @@ I am an Assistant Professor at the Department of Computer Science at University 
   - Knox Security Team, Samsung Research America
 
 ## Teaching experience
+- CAP 5610 Machine Learning: January 2025 - May 2025
 - CAP 6938 ST: Trustworthy Machine Learning: August 2024 - December 2024  
 - E501 Introduction to Computer Engineering: August 2023 - December 2023
 - E340/542 Introduction to Computational BioEngineering: August 2022 - December 2022
   
 ## Service
+- NSF Panelist, 2025
 - IGSC 2024 (The 15th International Green and Sustainable Computing Conference) [Publicity Chair](https://www.igscc.org/igsc24-people)
 - DAC Early Career Workshop 2024 [Co-organizer](https://sites.google.com/nd.edu/dac-early-career2024/home)
 - NSF WSCS Workshop 2024 Moderator
 - FastPath Workshop 2023 [Web and Publicity Chair](https://fastpath2023.github.io/FastPath2023/)
 
 - Reviewer
-  - International Conference on Learning Representations(ICLR)
-  - Conference on Neural Information Processing Systems Reviewer (NeurIPS)
-  - International Conference on Artificial Intelligence and Statistics (AISTATS)
-  - Conference on Computer Vision and Pattern Recognition Reviewer (CVPR)
-  - IEEE Transactions on Dependable and Secure Computing (TDSC)
+  - International Conference on Learning Representations(ICLR), 2025
+  - International Conference on Machine Learning (ICML), 2025
+  - Conference on Neural Information Processing Systems Reviewer (NeurIPS), 2024
+  - International Conference on Artificial Intelligence and Statistics (AISTATS),2025
+  - Conference on Computer Vision and Pattern Recognition Reviewer (CVPR), 2024
+  - IEEE Transactions on Dependable and Secure Computing (TDSC), 2024
+  - ACL Rolling Review (ARR), 2024-2025 
+  - NeuroComputing, 2025
