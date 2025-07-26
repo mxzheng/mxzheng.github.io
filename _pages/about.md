@@ -20,7 +20,7 @@ I am an Assistant Professor at the Department of Computer Science at University 
 ## News
 - 07/2025: Our proposal, [**CICI: UCSS: Secure Machine Learning as a Service for Collaborative Scientific Research**](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2530786&HistoricalAwards=false), has been funded by NSF!
 
-- 04/2025: The Project "BurpGPT LLM Security Scanner" has been selected for funding by DOD Pathfinder! 
+- 04/2025: The Project "BurpGPT LLM Security Scanner" has been selected for funding by DoD Pathfinder! 
 - 01/2025: One paper is accepted by ICLR 2025.
 - 09/2024: One paper is accepted by NeurIPS 2024.
 - 09/2024: Two papers are accepted by EMNLP 2024.
