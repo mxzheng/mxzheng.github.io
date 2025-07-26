@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor at the Department of Computer Science at University of Central Florida. Prior that, I obtained Ph.D. at the Department of Intelligent Systems Engineering at Indiana University Bloomington in 2023. Before that, I obtained my Bachelor's degree at Shandong University in 2018. My research interests mainly lie in machine learning security, especially backdoor attacks/defense for AI models and AI Data Privacy Protection.
 
-<span style="color: red"> I have two fully funded Ph.D. positions available for Fall 2025. The international applicants deadline is January 15th, 2025, the domestic applicants deadline is July,1st. If you're interested, please visit the [UCF CS Program](https://www.ucf.edu/degree/computer-science-phd/) and [Application Requirements](https://graduate.ucf.edu/application-deadlines-and-requirements/doctoral/2025/#computer-science-phd) for more details, and send your CV and transcript to me. </span>
+<!-- <span style="color: red"> I have two fully funded Ph.D. positions available for Fall 2025. The international applicants deadline is January 15th, 2025, the domestic applicants deadline is July,1st. If you're interested, please visit the [UCF CS Program](https://www.ucf.edu/degree/computer-science-phd/) and [Application Requirements](https://graduate.ucf.edu/application-deadlines-and-requirements/doctoral/2025/#computer-science-phd) for more details, and send your CV and transcript to me. </span> -->
 
 ## Research Interest
 - Machine Learning Security
@@ -18,6 +18,8 @@ I am an Assistant Professor at the Department of Computer Science at University 
 - Robust and Efficient Data Science
 
 ## News
+- 07/2025: Our Proposal "CICI: UCSS: Secure Machine Learning as a Service for Collaborative Scientific Research (https://www.nsf.gov/awardsearch/showAward?AWD_ID=2530786&HistoricalAwards=false)" has been funded by NSF! 
+- 04/2025: The Project "BurpGPT LLM Security Scanner" has been selected for funding by DOD Pathfinder! 
 - 01/2025: One paper is accepted by ICLR 2025.
 - 09/2024: One paper is accepted by NeurIPS 2024.
 - 09/2024: Two papers are accepted by EMNLP 2024.
@@ -25,7 +27,7 @@ I am an Assistant Professor at the Department of Computer Science at University 
 - 06/ 2024, I am happy to co-organize DAC Early Career Workshop.
 - 05/2024: OFHE is accepted by ISLPED 2024.
 - 05 / 2024: CR-UTP is accepted by ACL Findings 2024.
-- 05/2024,  I am honored to receive travel support to participate in the 2024 NSF SaTC Workshop in Chicago, IL. Thanks to the NSF and the organizing team!
+- 05/2024:  I am honored to receive travel support to participate in the 2024 NSF SaTC Workshop in Chicago, IL. Thanks to the NSF and the organizing team!
 - 03 / 2024: TrojFSP is accepted by NAACL 2024.
 - 02 / 2024: Happy to join UCF as an assistant professor in CS department!
 - 12 / 2023: Passed Thesis Defense!
