@@ -68,6 +68,7 @@ I am an Assistant Professor at the Department of Computer Science at University 
 - E340/542 Introduction to Computational BioEngineering: August 2022 - December 2022
   
 ## Service
+- Area Chair, ICLR 2026
 - NSF Panelist, 2025
 - IGSC 2024 (The 15th International Green and Sustainable Computing Conference) [Publicity Chair](https://www.igscc.org/igsc24-people)
 - DAC Early Career Workshop 2024 [Co-organizer](https://sites.google.com/nd.edu/dac-early-career2024/home)
@@ -75,11 +76,12 @@ I am an Assistant Professor at the Department of Computer Science at University 
 - FastPath Workshop 2023 [Web and Publicity Chair](https://fastpath2023.github.io/FastPath2023/)
 
 - Reviewer
-  - International Conference on Learning Representations(ICLR), 2025
-  - International Conference on Machine Learning (ICML), 2025
-  - Conference on Neural Information Processing Systems Reviewer (NeurIPS), 2024
-  - International Conference on Artificial Intelligence and Statistics (AISTATS),2025
-  - Conference on Computer Vision and Pattern Recognition Reviewer (CVPR), 2024
+  - Conference on Computer and Communications Security (CCS), 2026
+  - International Conference on Learning Representations(ICLR), 2025-
+  - International Conference on Machine Learning (ICML), 2025-
+  - Conference on Neural Information Processing Systems Reviewer (NeurIPS), 2024-
+  - International Conference on Artificial Intelligence and Statistics (AISTATS),2025-
+  - Conference on Computer Vision and Pattern Recognition Reviewer (CVPR), 2024-
   - IEEE Transactions on Dependable and Secure Computing (TDSC), 2024
   - ACL Rolling Review (ARR), 2024-2025 
   - NeuroComputing, 2025
