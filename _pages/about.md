@@ -18,6 +18,10 @@ I am an Assistant Professor at the Department of Computer Science at University 
 - Robust and Efficient Data Science
 
 ## News
+- 09/2025: One paper is accepted by NeurIPS 2025.
+- 09/2025: Happy to serve as Program Committee for CCS 2026. 
+- 08/2025: Happy to serve as Area Chair for ICLR 2026.
+- 08/2025: Two papers are accepted by EMNLP 2025.
 - 07/2025: Our proposal, [**CICI: UCSS: Secure Machine Learning as a Service for Collaborative Scientific Research**](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2530786&HistoricalAwards=false), has been funded by NSF!
 
 - 04/2025: The Project "BurpGPT LLM Security Scanner" has been selected for funding by DoD Pathfinder! 
