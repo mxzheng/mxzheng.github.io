@@ -18,6 +18,9 @@ I am an Assistant Professor at the Department of Computer Science at University 
 - Robust and Efficient Data Science
 
 ## News
+- 03/2026: Happy to serve as Area Chair for NeurIPS 2026. 
+- 03/2026: Three papers are accepted by DAC 2026.
+- 02/2026: One paper is accepted by CVPR 2026.
 - 09/2025: One paper is accepted by NeurIPS 2025.
 - 09/2025: Happy to serve as Program Committee for CCS 2026. 
 - 08/2025: Happy to serve as Area Chair for ICLR 2026.
