@@ -18,6 +18,7 @@ I am an Assistant Professor at the Department of Computer Science at University 
 - Robust and Efficient Data Science
 
 ## News
+- 04/2026: One paper is accepted by ACL 2026 Main Conference.
 - 03/2026: Three papers are accepted by DAC 2026.
 - 02/2026: One paper is accepted by CVPR 2026.
 - 09/2025: One paper is accepted by NeurIPS 2025.
