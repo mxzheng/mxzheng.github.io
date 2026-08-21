@@ -8,16 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the Department of Computer Science at University of Central Florida. Prior that, I obtained Ph.D. at the Department of Intelligent Systems Engineering at Indiana University Bloomington in 2023. Before that, I obtained my Bachelor's degree at Shandong University in 2018. My research interests mainly lie in machine learning security, especially backdoor attacks/defense for AI models and AI Data Privacy Protection.
+I am an Assistant Professor at the Department of Computer Science at University of Central Florida. Prior that, I obtained Ph.D. at the Department of Intelligent Systems Engineering at Indiana University Bloomington in 2023. Before that, I obtained my Bachelor's degree at Shandong University in 2018. My research interests mainly lie in Quantum Security, Machine Learning Security and AI Data Privacy Protection.
 
 <!-- <span style="color: red"> I have two fully funded Ph.D. positions available for Fall 2026. The international applicants deadline is January 15th, 2026, the domestic applicants deadline is July,1st. If you're interested, please visit the [UCF CS Program](https://www.ucf.edu/degree/computer-science-phd/) and [Application Requirements](https://graduate.ucf.edu/application-deadlines-and-requirements/doctoral/2025/#computer-science-phd) for more details, and send your CV and transcript to me. </span> -->
 
 ## Research Interest
+- Quantum Security
 - Machine Learning Security
 - AI Data Privacy Protection
 - Robust and Efficient Data Science
 
 ## News
+- 08/2026: Two papers are accepted by EMNLP 2026.
+- 07/2026: Two papers are accepted by Quantum Security (QSEC) workshop at QCE 2026.
+- 07/2026: Happy to be recognized as "Outstanding TPC Member" at DAC (TOP 13%). 
+- 07/2026: Happy to co-organize the SPGAI workshop at DAC with Qian Lou and Hongyi'Michael' Wu.
+- 06/2026: Our proposal, [**CICI: UCSS: Trustworthy Cyberinfrastructure-Enabled Data-Driven Electronic Design Automation for Collaborative Design of Analog/Mixed-Signal Integrated Circuits**](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2613629), has been funded by NSF!
 - 04/2026: One paper is accepted by ACL 2026 Main Conference.
 - 03/2026: Three papers are accepted by DAC 2026.
 - 02/2026: One paper is accepted by CVPR 2026.
@@ -71,14 +77,17 @@ I am an Assistant Professor at the Department of Computer Science at University 
 - E340/542 Introduction to Computational BioEngineering: August 2022 - December 2022
   
 ## Service
+- Area Chair, NeurIPS 2026
 - Area Chair, ICLR 2026
-- NSF Panelist, 2025
+- NSF Panelist, 2025, 2026
+- DAC SPGAI Workshop Organizer
 - IGSC 2024 (The 15th International Green and Sustainable Computing Conference) [Publicity Chair](https://www.igscc.org/igsc24-people)
-- DAC Early Career Workshop 2024 [Co-organizer](https://sites.google.com/nd.edu/dac-early-career2024/home)
+- DAC Early Career Workshop 2024 Organizer [Co-organizer](https://sites.google.com/nd.edu/dac-early-career2024/home)
 - NSF WSCS Workshop 2024 Moderator
 - FastPath Workshop 2023 [Web and Publicity Chair](https://fastpath2023.github.io/FastPath2023/)
 
 - Reviewer
+  - Privacy Enhancing Technologies Symposium (PETS), 2027
   - Conference on Computer and Communications Security (CCS), 2026
   - International Conference on Learning Representations(ICLR), 2025-
   - International Conference on Machine Learning (ICML), 2025-
