@@ -32,7 +32,6 @@ I am an Assistant Professor at the Department of Computer Science at University 
 - 08/2025: Happy to serve as Area Chair for ICLR 2026.
 - 08/2025: Two papers are accepted by EMNLP 2025.
 - 07/2025: Our proposal, [**CICI: UCSS: Secure Machine Learning as a Service for Collaborative Scientific Research**](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2530786&HistoricalAwards=false), has been funded by NSF!
-
 - 04/2025: The Project "BurpGPT LLM Security Scanner" has been selected for funding by DoD Pathfinder! 
 - 01/2025: One paper is accepted by ICLR 2025.
 - 09/2024: One paper is accepted by NeurIPS 2024.
@@ -82,7 +81,7 @@ I am an Assistant Professor at the Department of Computer Science at University 
 - NSF Panelist, 2025, 2026
 - DAC SPGAI Workshop Organizer
 - IGSC 2024 (The 15th International Green and Sustainable Computing Conference) [Publicity Chair](https://www.igscc.org/igsc24-people)
-- DAC Early Career Workshop 2024 Organizer [Co-organizer](https://sites.google.com/nd.edu/dac-early-career2024/home)
+- DAC Early Career Workshop 2024 [Co-organizer](https://sites.google.com/nd.edu/dac-early-career2024/home)
 - NSF WSCS Workshop 2024 Moderator
 - FastPath Workshop 2023 [Web and Publicity Chair](https://fastpath2023.github.io/FastPath2023/)
 
